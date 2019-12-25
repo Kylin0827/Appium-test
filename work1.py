@@ -3,6 +3,7 @@ import time,traceback
 
 a=2
 b=3
+C=4
 
 desired_caps = {}
 desired_caps['platformName'] = 'Android'
