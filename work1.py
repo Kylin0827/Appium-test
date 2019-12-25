@@ -2,6 +2,7 @@ from appium import webdriver
 import time,traceback
 
 a=2
+b=3
 
 desired_caps = {}
 desired_caps['platformName'] = 'Android'
